@@ -1,0 +1,5 @@
+services\AbstractFacade.class
+services\FamiliaFacadeREST.class
+entities\Familia.class
+root\resources\JakartaEE8Resource.class
+root\JakartaRestConfiguration.class
